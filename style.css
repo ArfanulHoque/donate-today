@@ -1,0 +1,109 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.background-image {
+    background-image: url(images/bg\ use\ 1.jpg);
+    padding: 400px 200px;
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.white-color {
+    color: white;
+    font-size: 50px;
+
+}
+
+.font-color {
+    color: aqua;
+}
+
+.link-button {
+    text-decoration: none;
+    text-align: center;
+    background-color: brown;
+    padding: 20px 50px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+
+
+.donate-tody {
+    text-align: center;
+}
+
+.place-holder-text {
+    color: gray;
+}
+
+.font-size-color {
+    color: black;
+    font-size: 50px;
+}
+
+.button {
+    text-align: center;
+    padding: 20px 30px;
+    font-size: 30px;
+    cursor: pointer;
+
+}
+
+.btn1 {
+    padding: 30px 20px;
+    font-size: 30px;
+    border: none;
+    color: gray;
+    transition: 0.5s;
+
+
+}
+
+.btn2 {
+    padding: 30px 20px;
+    font-size: 30px;
+    border: 2px solid orangered;
+    border-color: orangered;
+    color: orangered;
+}
+
+.btn3 {
+    padding: 30px 20px;
+    font-size: 30px;
+    border: none;
+    color: gray;
+}
+
+.btn4 {
+    padding: 30px 20px;
+    font-size: 30px;
+    border: none;
+    color: gray;
+}
+
+.btn5 {
+    padding: 30px 20px;
+    font-size: 30px;
+    border: none;
+    color: gray;
+}
+
+.other-amount {
+    text-align: center;
+    font-size: small;
+    font-weight: 100;
+    color: gray;
+}
+
+.amount {
+    text-align: center;
+}
+
+.donate-plan {
+    text-align: center;
+}
