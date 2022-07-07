@@ -29,6 +29,7 @@ body {
     border-radius: 5px;
     color: white;
     font-weight: 700;
+
 }
 
 
@@ -98,6 +99,7 @@ body {
     font-size: small;
     font-weight: 100;
     color: gray;
+
 }
 
 .amount {
@@ -148,6 +150,18 @@ body {
     text-align: justify;
 }
 
+.website {
+    text-decoration: none;
+    text-align: center;
+    background-color: brown;
+    padding: 20px 50px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin-left: 800px;
+
+}
+
 .children-image {
     display: flex;
     height: 400px;
@@ -155,20 +169,8 @@ body {
 
     margin-left: 400px;
     margin-right: 100px;
+    margin-top: 50px;
     padding: 20px;
-}
-
-.be-humble {
-    font-family: 'Lobster Two', cursive;
-    color: orangered;
-
-}
-
-.footer-text {
-    text-align: center;
-    background-color: black;
-    margin-bottom: 0;
-
 }
 
 h5 {
@@ -194,4 +196,17 @@ input {
 .subscribe {
     background-color: orangered;
     position: absolute;
+}
+
+.be-humble {
+    font-family: 'Lobster Two', cursive;
+    color: orangered;
+
+}
+
+.footer-text {
+    text-align: center;
+    background-color: black;
+    margin-bottom: 0;
+
 }
